@@ -5,4 +5,10 @@
 Параметры -> Специальные возможности -> Звук -> Монозвук -> Откл.
 
 # Установка
-Скопировать video.txt и divinator.cfg в директорию Steam: %\Steam\userdata\{you steam id}\730\local\cfg
+Скопировать video.txt и divinator.cfg в директорию Steam: 
+%\Steam\userdata\{you steam id}\730\local\cfg
+
+В игре открыть консоль и прописать 
+``` 
+exec divinator 
+```
