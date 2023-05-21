@@ -26,6 +26,29 @@
 exec divinator 
 ```
 
+## Описание
+AIM "Turquoise dot"
+Blood sprites are cleared when moving
+Add double jump
+Double select slot 3 to switch hands
+Press "С" for scale radar
+Press "X" for mute teammate
+Add numpad fast buy:
+- num "1" buy vest
+- num "2" buy vest + helm
+- num "3" buy mp7
+- num "4" buy ak47/m4a1
+- num "6" buy awp
+- num "enter" buy defuser
+- num "." buy smokegrenade, molotov/incgrenade, flashbang x2
+- num "/" buy molotov/incgrenade
+- num "*" buy smoke
+- num "-" buy flashbang
+- num "8" buy hegranade
+- num "9" buy decoy
+- num "+" full buy with ak47/m4a1
+- num "-" fource buy with mp7
+
 ## Контактная информация
 - [Мой канал на Youtube](https://www.youtube.com/channel/UCLu3SvfTCevfWwO2ncdiatg "Подпишись если есть возможность")
 - [Мой Вконтакте](https://vk.com/divinator.vskz)
