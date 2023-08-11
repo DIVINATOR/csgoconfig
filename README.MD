@@ -9,24 +9,24 @@
 ## Список файлов
 - README.txt - файл с описанием дистрибутива и инструкциями по установке
 - COMMANDS.MD - файл с описанием комманд конфигурации
-- divinator.cfg - основной файл конфигурации
+- div1x.cfg - основной файл конфигурации
 - video.txt - файл конфигурации настроек видео (разрешение и прочее...)
 
 ## Установка
 Для установки дистрибутива выполните следующие шаги:
 1. Скачайте zip архив
 2. Распакуйте zip архив
-3. Скопируйте нужные файлы в директорию <**Steam**>, где <**Steam**> - директория установленного приложения «**Steam**», 
-например С:\Program Files (x86)\Steam, а <**you steam id**> - ваш id профиля «**Steam**» c установленной игрой «**Counter Strike GO**»
+3. Скопируйте файлы конфигурации (*.cfg) в директорию пользовательских настроек например:
  ```
-<Steam>\userdata\<you steam id>\730\local\cfg\
+С:\Program Files (x86)\Steam\userdata\<you steam id>\730\local\cfg\
 ```
 4. В игре открыть консоль «~» и прописать команду:
 ``` 
-exec divinator 
+exec div1x
 ```
 
 ## Описание
+![Комбинации](/keys.png)
 AIM "Turquoise dot"
 Blood sprites are cleared when moving
 Add double jump
@@ -43,12 +43,13 @@ Add numpad fast buy:
 - num "." buy smokegrenade, molotov/incgrenade, flashbang x2
 - num "/" buy molotov/incgrenade
 - num "*" buy smoke
-- num "-" buy flashbang
+- num "7" buy decoy
 - num "8" buy hegranade
-- num "9" buy decoy
+- num "9" buy flashbang
 - num "+" full buy with ak47/m4a1
 - num "-" fource buy with mp7
 
 ## Контактная информация
-- [Мой канал на Youtube](https://www.youtube.com/channel/UCLu3SvfTCevfWwO2ncdiatg "Подпишись если есть возможность")
+- [Мой канал на VK PLAY](https://vkplay.live/div1x/ "Подпишись если есть возможность")
+- [Мой канал на Youtube](https://www.youtube.com/@divinator "Подпишись если есть возможность")
 - [Мой Вконтакте](https://vk.com/divinator.vskz)
